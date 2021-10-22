@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/lizainslie
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lizainslie.dev
+  * I am lizainslie (https://keybase.io/lizainslie) on keybase.
+  * I have a public key ASDNeh1Gi2iZGXbrghgMu-5Vz-REyUflAoY1gDvvxMlrJwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120cd7a1d468b68991976eb82180cbbee55cfe444c947e5028635803befc4c96b270a",
+      "host": "keybase.io",
+      "kid": "0120cd7a1d468b68991976eb82180cbbee55cfe444c947e5028635803befc4c96b270a",
+      "uid": "e7a595cf3d3f735e6f7677cf884f0019",
+      "username": "lizainslie"
+    },
+    "merkle_root": {
+      "ctime": 1634909016,
+      "hash": "469d5aaccbaa0ffcbb6c3474a7fbe4a7a36c49d669c20dddc66915f2d35c320d7c6d8f062ee70d6fa21da2b6a11be25a3179cb5ac8f0551d5749707c445b3976",
+      "hash_meta": "e08478020c2c50869903e7b107468eda75607ec76d9b49486ebebc44719d446f",
+      "seqno": 21041024
+    },
+    "service": {
+      "entropy": "oqZwN+LbWCL9oqLIAbqXj1uF",
+      "hostname": "lizainslie.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.8.1"
+  },
+  "ctime": 1634909031,
+  "expire_in": 504576000,
+  "prev": "c30eed27f3f8de31fe7012fa9f198ae21c069c2b73ba8da37a6c549c81892ee8",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgzXodRotomRl264IYDLvuVc/kRMlH5QKGNYA778TJaycKp3BheWxvYWTESpcCDcQgww7tJ/P43jH+cBL6nxmK4hwGnCtzuo2jemxUnIGJLujEII280s7IKwCJhobZ6UyKz+7AoZmOb/h9rwPyT7wQopc+AgHCo3NpZ8RA9JJ7hG7xvH+DGIDCbTeCJHOyGsV9Tfhn6zDlufhDe1LkTdZlGPl52o4SrNc0MyX+uP5D1B4gP0m+gR9uLRXRD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPoXeP2mB2JHFQGH7gaS0/7fse/iJucBjLlbBPtsgisTo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lizainslie
+
+==================================================================
